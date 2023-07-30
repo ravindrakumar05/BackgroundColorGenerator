@@ -1,0 +1,26 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+
+}
+
+
+/* Main Container */
+
+.main-container {
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+.main-container button{
+    padding:15px;
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    border-radius: 8px;
+    border:2px solid #000;
+
+}
